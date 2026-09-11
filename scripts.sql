@@ -4,3 +4,5 @@ CREATE TABLE professor (
     cpf VARCHAR(14),
     email VARCHAR(255)
 );
+
+SELECT * FROM professor;
